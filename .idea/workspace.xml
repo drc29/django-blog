@@ -53,7 +53,19 @@
       <option name="presentableId" value="Default" />
       <updated>1575511720251</updated>
     </task>
+    <task id="LOCAL-00001" summary="For Deployment">
+      <created>1575947134388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575947134388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="For Deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="For Deployment" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="21" key="#HTML" timestamp="1575938954443">
